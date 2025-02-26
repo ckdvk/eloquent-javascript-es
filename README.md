@@ -4,7 +4,7 @@
 <img alt="Portada del libro" src="./img/cover.jpg" width="250px" />
 </a>
 
-Traducción de la cuarta edición de [Eloquent JavaScript](https://eloquentjavascript.net/) al español por [midudev](https://twitch.tv/midudev). Modificaciones por [ckdvk](https://github.com/ckdvk) para una lectura más natural.
+Traducción inicial de la cuarta edición de [Eloquent JavaScript](https://eloquentjavascript.net/) al español por [midudev](https://twitch.tv/midudev). Completada y mejorada por [ckdvk](https://github.com/ckdvk) para una lectura más natural y libre de errores.
 
 [Repositorio original](https://github.com/marijnh/Eloquent-JavaScript)
 
